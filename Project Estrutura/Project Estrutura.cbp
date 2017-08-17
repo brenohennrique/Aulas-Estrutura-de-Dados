@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Project Estrutura" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Project Estrutura" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Project Estrutura" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ab_adicionar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ab_excluir.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ab_finalizar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ab_inicializar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ab_localizar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ab_novo_no.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ld_adicionar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ld_excluir.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ld_expandir.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ld_finalizar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ld_inicializar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ld_listar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ld_quantidadeElementos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_adicionar_no.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_adicionar_no_final.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_adicionar_no_inicio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_adicionar_no_meio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_excluir_no.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_excluir_no_final.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_excluir_no_inicio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_excluir_no_meio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_finalizar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_finalizar_elemento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_inicializar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_listar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_listar_invertido.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ldl_novo_no.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="variaveis.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1498683111 source:c:\linguagem c\project estrutura\ldl_finalizar_elemento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 c:\linguagem c\project estrutura\variaveis.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_inicializar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_listar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_listar_invertido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_novo_no.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683843 source:c:\linguagem c\project estrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ab_adicionar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ab_excluir.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ab_finalizar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ab_inicializar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ab_localizar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ab_novo_no.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ld_adicionar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498672735 source:c:\linguagem c\project estrutura\ld_buscaporindice.c
+	<stdio.h>
+	<stdlib.h>
+	"variaveis.h"
+
+1495804106 source:c:\linguagem c\project estrutura\ld_buscarporvalor.c
+	<stdio.h>
+	<stdlib.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ld_excluir.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ld_expandir.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ld_finalizar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ld_inicializar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1496329100 source:c:\linguagem c\project estrutura\ld_ordenar.c
+	<stdio.h>
+	<stdlib.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ld_quantidadeelementos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_adicionar_no.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_adicionar_no_final.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_adicionar_no_inicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_adicionar_no_meio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_excluir_no.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_excluir_no_final.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_excluir_no_inicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_excluir_no_meio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ldl_finalizar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\linguagem c\project estrutura\ld_listar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498691771 source:c:\estrutura de dados\project estrutura\ld_adicionar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498691771 c:\estrutura de dados\project estrutura\variaveis.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1498691791 source:c:\estrutura de dados\project estrutura\ld_excluir.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498691810 source:c:\estrutura de dados\project estrutura\ld_expandir.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\estrutura de dados\project estrutura\ld_finalizar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\estrutura de dados\project estrutura\ld_inicializar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\estrutura de dados\project estrutura\ld_listar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498691573 source:c:\estrutura de dados\project estrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
+1498683111 source:c:\estrutura de dados\project estrutura\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variaveis.h"
+
